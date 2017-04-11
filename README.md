@@ -1,3 +1,5 @@
-WELCOME TO RUBY MATH GAME!
+##WELCOME TO PAIGE'S RUBY MATH GAME!
 
-PLAY FOR YOUR LIFE!
+First project using Ruby - Displays simple math questions and will run until one player answers 3 correct ansers.
+
+Simple question and answer game with up to 2 players. Enter your names and let the games begin!
