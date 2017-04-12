@@ -1,7 +1,6 @@
 class Players
   attr_reader :name
-  attr_accessor :life
-  attr_accessor :turn
+  attr_accessor :life, :turn
 
   def initialize(name = 'Player')
     @name = name
